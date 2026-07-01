@@ -20,7 +20,6 @@ make
 ## Project Structure
 ```
 http/
-│
 ├── src/
 │   ├── Makefile
 │   ├── index.html
@@ -30,9 +29,7 @@ http/
 │   ├── request.c
 │   ├── request.h
 │   └── request.o
-│
 ├── README.md
-│
 └── LICENSE
 ```
 
