@@ -33,7 +33,7 @@ http/
 │
 ├── README.md
 │
-└── image.jpg
+└── LICENSE
 ```
 
 ## Example Usage
